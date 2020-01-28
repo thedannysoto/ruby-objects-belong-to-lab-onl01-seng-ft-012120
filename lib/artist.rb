@@ -3,7 +3,7 @@ class Artist
   attr_accessor :name
   
   def initialize
-    @name = "John Mayer"
+    @name = "Beyonce"
   end 
   
 end
